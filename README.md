@@ -50,6 +50,9 @@ Currently studying **Quality Engineering and CyberSecurity**.
 ---
 
 ## 📊 GitHub Stats
+## 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/dbuG-Hun7er/BugHun77/output/github-contribution-grid-snake-dark.svg)
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=dbuG-Hun7er&show_icons=true&theme=tokyonight)
 
