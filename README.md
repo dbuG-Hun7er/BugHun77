@@ -68,4 +68,4 @@ Currently studying **Quality Engineering and CyberSecurity**.
 
 📍 São Paulo - Brazil  
 💼 QA Engineer  
-🔗 https://www.linkedin.com/in/lucasferreiradelima
+🔗 https://www.linkedin.com/in/dbughun7er/
